@@ -1,4 +1,4 @@
-# Matchify
+# Matetify
 
 A dating app that connects users based on interests, preferences, and location.
 
@@ -27,7 +27,7 @@ Project Structure:
 
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-                <title>Matchify - Profile Creation</title>
+                <title>Matetify - Profile Creation</title>
 
                 <link rel="stylesheet" href="styles.css">
 
